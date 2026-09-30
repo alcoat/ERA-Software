@@ -18,6 +18,8 @@ MATLAB and Python 3 classes for the convenient definition and use of probability
 
 The distributions can be defined through their parameters, through their moments or through data fitting.
 
+We have also created a corresponding Python package 'eraUQ', description and installation guide can be found at [github.com/ERA-Software/eraUQ](https://github.com/ERA-Software/eraUQ).
+
 
 ## [Surrogate Modelling](./Surrogate%20Modelling/)
 
